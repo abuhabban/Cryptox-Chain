@@ -13,7 +13,7 @@ import "./MinterRole.sol";
  * extend from other ITRC20-based tokens:
  * https://github.com/OpenZeppelin/openzeppelin-solidity/issues/1536
  */
-contract WINK is TRC20, MinterRole {
+contract CryptoxChain is TRC20, MinterRole {
     string private _name;
     string private _symbol;
     uint8 private _decimals;
