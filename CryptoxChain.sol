@@ -5,6 +5,7 @@ import "./MinterRole.sol";
 
 /**
  * @title TRC20Detailed token
+ * Speed test
  * @dev The decimals are only for visualization purposes.
  * All the operations are done using the smallest and indivisible token unit,
  * just as on TRON all the operations are done in sun.
